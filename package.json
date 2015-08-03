@@ -1,0 +1,37 @@
+{
+  "name": "extract-git-repo",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "repository": "subratamal/extract-git-repo",
+  "author": {
+    "name": "Subrata Mal",
+    "email": "06.subrata@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "./lib/index.js",
+  "keywords": [
+    "extract",
+    "git"
+  ],
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-istanbul": "^0.8.1",
+    "gulp-jscs": "^1.1.0",
+    "gulp-jshint": "^1.5.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "jshint-stylish": "^1.0.0",
+    "gulp-coveralls": "^0.1.0",
+    "gulp-babel": "^5.1.0",
+    "babel-core": "^5.5.0",
+    "node-dir": "latest"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "license": "MIT"
+}
