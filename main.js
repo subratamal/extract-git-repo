@@ -9,8 +9,8 @@ import ExtractGitRepoUrl from './index';
 class Main {
   constructor() {
     debugger;
-    let extractGitRepoUrl = new ExtractGitRepoUrl({dirName: "/Users/subratamal/Works.Pers/Application"});
-    extractGitRepoUrl.extract();
+    let extractGitRepoObj = new ExtractGitRepoUrl({dirName: "/Users/subratamal/Works.Pers/Application"});
+    extractGitRepoObj.extract();
   }
 }
 
