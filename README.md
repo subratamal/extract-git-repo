@@ -19,7 +19,7 @@ extractGitRepo('Rainbow');
 
 ## License
 
-MIT © [Subrata Mal]()
+MIT © [Subrata Mal]
 
 
 [npm-image]: https://badge.fury.io/js/extract-git-repo.svg

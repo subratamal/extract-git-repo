@@ -15,3 +15,4 @@ class Main {
 }
 
 new Main();
+
